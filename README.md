@@ -1,5 +1,5 @@
 # MunchkinDungeoneer2D
-A simple time-based 2D survival RPG Game
+A simple Time-Based 2D Survival Game
 
 # How to Play
 To launch the game, click on "MunchkinDungeoneer.exe", and the game will start up.
